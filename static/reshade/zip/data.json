@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "date": "22.05.2023",
+  "contributors": {
+    "sefinek": {
+      "github": "https://github.com/sefinek24",
+      "website": "https://sefinek.net",
+      "email": "contact@sefinek.net"
+    }
+  },
+  "other": {
+    "collection": {
+      "id": 1,
+      "name": "GenshinStellaMod",
+      "website": "https://genshin.sefinek.net",
+      "discord": "https://discord.gg/8GbXtnYQKd"
+    },
+    "github": {
+      "repo": "https://github.com/sefinek24/Genshin-Stella-Resources",
+      "issues": "https://github.com/sefinek24/Genshin-Stella-Resources/issues",
+      "pulls": "https://github.com/sefinek24/Genshin-Stella-Resources/pulls"
+    }
+  }
+}
