@@ -1,2 +1,5 @@
 .idea
-resources.zip
+static/reshade/zip/Cache/*.i
+static/reshade/zip/Cache/*.asm
+static/reshade/zip/Cache/*.cso
+static/reshade/zip/resources.zip
