@@ -7,4 +7,4 @@ If you want to add your own preset, just create a new Pull Request with screensh
 Have fun!
 
 Link to Pull Requests:
-https://github.com/sefinek24/Genshin-Stella-Resources
+https://github.com/sefinek24/Genshin-Stella-Resources/pulls
