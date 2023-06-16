@@ -1,1 +1,0 @@
-Put the file dcf5ad8be031c5fc-ps_replace.txt in the folder called "ShaderFixes" in your 3DMigoto folder.

@@ -1,0 +1,6 @@
+
+
+;      This affect also the characters backgrounds and make artifact disapear
+[TextureOverride Animation Background]
+hash = 661601bd
+handling = skip
