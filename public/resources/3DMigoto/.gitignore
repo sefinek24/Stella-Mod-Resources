@@ -1,0 +1,10 @@
+# Workspace
+.idea
+
+# Logs
+d3d11_log.txt
+nvapi_log.txt
+*.log
+
+# Cache
+ShaderCache
