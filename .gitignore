@@ -2,13 +2,11 @@
 .idea
 .vs
 
-# New
-public/static.zip
-public/public.zip
+# Zip files
 public/resources/resources.zip
 
-# Old
-static/reshade/zip/Cache/*.i
-static/reshade/zip/Cache/*.asm
-static/reshade/zip/Cache/*.cso
-static/reshade/zip/resources.zip
+# ReShade cache
+public/resources/ReShade/Cache/*.i
+public/resources/ReShade/Cache/*.asm
+public/resources/ReShade/Cache/*.cso
+public/resources/ReShade/Cache/reshade-*
