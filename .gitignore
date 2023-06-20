@@ -5,6 +5,11 @@
 # Zip files
 public/resources/resources.zip
 
+# Screenshots
+public/resources/Screenshots/*.jpg
+public/resources/Screenshots/*.jpeg
+public/resources/Screenshots/*.png
+
 # ReShade cache
 public/resources/ReShade/Cache/*.i
 public/resources/ReShade/Cache/*.asm
