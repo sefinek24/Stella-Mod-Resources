@@ -1,1 +1,0 @@
-python .\genshin_set_outlines.py --thickness 0

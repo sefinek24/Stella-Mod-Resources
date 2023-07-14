@@ -1,2 +1,0 @@
-The original mod was made by amoleru and can be found here: https://gamebanana.com/mods/436017
-I (Anilyan) just recolored it to fit in more with Sucrose typical colors, and changed/added some patterns in some of the versions.
