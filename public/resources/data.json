@@ -1,24 +1,22 @@
 {
-  "version": "1.2.1",
-  "date": "21.07.2023",
+  "version": "1.2.2",
+  "date": "27.09.2023",
   "contributors": {
     "sefinek": {
-      "github": "https://github.com/sefinek24",
-      "website": "https://sefinek.net",
-      "email": "contact@sefinek.net"
+      "user": "Sefinek <contact@sefinek.net> (https://sefinek.net)",
+      "github": "https://github.com/sefinek24"
     }
   },
-  "other": {
-    "collection": {
-      "id": 1,
-      "name": "GenshinStellaMod",
-      "website": "https://genshin.sefinek.net",
+  "repository": {
+    "repo": "https://github.com/sefinek24/Genshin-Stella-Resources",
+    "issues": "https://github.com/sefinek24/Genshin-Stella-Resources/issues",
+    "pulls": "https://github.com/sefinek24/Genshin-Stella-Resources/pulls"
+  },
+  "stella": {
+    "website": "https://genshin.sefinek.net",
+    "help": {
+      "subpage": "https://sefinek.net/genshin-impact-reshade/support",,
       "discord": "https://discord.gg/8GbXtnYQKd"
-    },
-    "github": {
-      "repo": "https://github.com/sefinek24/Genshin-Stella-Resources",
-      "issues": "https://github.com/sefinek24/Genshin-Stella-Resources/issues",
-      "pulls": "https://github.com/sefinek24/Genshin-Stella-Resources/pulls"
     }
   }
 }
