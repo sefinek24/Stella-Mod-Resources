@@ -47,7 +47,7 @@ Your contributions are greatly appreciated.
    - Make the necessary changes to the project in your local repository.
      ![Make your changes](assets/images/4.1-make-changes.png)
 
-     > [!IMPORTANT]
+     > [!WARNING]
      > PLEASE MAKE SURE YOU'RE CREATING THE PRESET IN THE CORRECT PATH! ADDITIONALLY, FILES MUST FOLLOW THE APPROPRIATE NAMING CONVENTIONS! IT IS ESSENTIAL TO FAMILIARIZE YOURSELF WITH THE RULES AVAILABLE [HERE](public/resources/ReShade/Presets/1.%20Made%20by%20community/README.md). FAILURE TO COMPLY WILL RESULT IN YOUR PULL REQUEST BEING REJECTED!
 
 5. **Commit Your Changes**
