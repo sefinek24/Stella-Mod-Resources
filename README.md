@@ -21,10 +21,12 @@ Your contributions are greatly appreciated.
 
 1. **Fork the Repository**
     - Click the "Fork" button on the top-right of the repository's page. This creates a copy of the repository in your GitHub account.
-      ![Fork](assets/images/fork.png)
+      ![Fork](assets/images/1.1-fork.png)
 
 2. **Clone Your Forked Repository**
     - In your forked repository, click the "Code" button and copy the repository's URL.
+      ![Fork](assets/images/2.1-copy-url.png)
+
     - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
       ```bash
       git clone <COPIED-URL>
