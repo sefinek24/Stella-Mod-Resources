@@ -28,8 +28,9 @@ Your contributions are greatly appreciated.
      ![Copy HTTPS url](assets/images/2.1-copy-url.png)
 
    - Open your terminal or cmd and use the `git clone` command to download your forked repository to your local machine.
-     > [!IMPORTANT]
+     > [!IMPORTANT]  
      > To execute this command, you need to have [Git software](https://git-scm.com/downloads) installed. Please ensure that you have it installed.
+     
      ```bash
      git clone <COPIED-URL>
      ```
