@@ -21,8 +21,7 @@ jobs:
           files: public/resources
           dest: resources.zip
 
-      - name: Release
-        uses: ncipollo/release-action@v1
+      - uses: ncipollo/release-action@v1
         with:
           artifacts: resources.zip
           generateReleaseNotes: true
