@@ -2,7 +2,7 @@
 Repository containing a collection of presets and shaders used by the [Genshin Stella Mod](https://sefinek.net/genshin-impact-reshade/repositories).
 
 ## 🔎 File locations
-- **ReShade**
+1. **ReShade**
     - **Addons:** [/public/resources/ReShade/Addons](/public/resources/ReShade/Addons)
     - **Presets:** [/public/resources/ReShade/Presets](/public/resources/ReShade/Presets)
       - **Made by community:** [/public/resources/ReShade/Presets/1.%20Made%20by%20community](/public/resources/ReShade/Presets/1.%20Made%20by%20community)
@@ -10,7 +10,7 @@ Repository containing a collection of presets and shaders used by the [Genshin S
     - **Shaders:** [/public/resources/ReShade/Shaders](/public/resources/ReShade/Shaders)
       - **Effects:** [/public/resources/ReShade/Shaders/Effects](/public/resources/ReShade/Shaders/Effects)
       - **Textures:** [/public/resources/ReShade/Shaders/Textures](/public/resources/ReShade/Shaders/Textures)
-- **Screenshots:** [/public/resources/Screenshots](/public/resources/Screenshots)
+2. **Screenshots:** [/public/resources/Screenshots](/public/resources/Screenshots)
 
 ## ❓ FAQ
 
