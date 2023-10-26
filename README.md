@@ -14,5 +14,5 @@ Resources are by default downloaded and updated in the `C:\Stella-Mod-Resources`
 
 
 ## Collaboration
-If you'd like to contribute your preset to the program's public resources, please create a new [Pull request](https://github.com/sefinek24/Stella-Mod-Resources/pulls).
+If you'd like to contribute your preset to the application's public resources, please create a new [Pull request](https://github.com/sefinek24/Stella-Mod-Resources/pulls).
 Your contributions are greatly appreciated.
