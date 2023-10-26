@@ -5,7 +5,7 @@ This folder contains community-made ReShade presets for Genshin Impact and YuanS
 ## 👥 Pull Requests
 If you'd like to contribute your own preset, simply create a new Pull Request with accompanying screenshots. However, please make sure to hide your UID for privacy and security.
 
-### » Use valid filenames
+### » Use valid names
 1. `<Discord username>`/`<Small description>.ini`
 2. `<GitHub username>`/`<Small description>.ini`
 
