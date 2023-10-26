@@ -38,9 +38,11 @@ Your contributions are greatly appreciated.
       ```bash
       git checkout -b new-changes
       ```
+      ![Fork](assets/images/3.1-checkout.png)
 
 4. **Make Your Changes**
     - Make the necessary changes to the project in your local repository.
+      ![Fork](assets/images/4.1-make-changes.png)
 
 5. **Commit Your Changes**
     - Use the `git commit` command to commit your changes locally:
