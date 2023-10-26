@@ -80,3 +80,12 @@ Your contributions are greatly appreciated.
    - If your changes are approved, your pull request will be merged into the original repository.
 
 That's it! You've successfully created a pull request on GitHub. Your changes are now part of the project. Thank you.
+
+## 💙 Attribution
+In this repository, we have utilized shaders from the [crosire/reshade-shaders](https://github.com/crosire/reshade-shaders/tree/slim) and other sources.
+
+## 📑 License
+Getting acquainted with the license is essential. It's crucial to thoroughly understand its terms and conditions.
+
+Navigate to the [LICENSE](LICENSE) file for additional information.
+I would like to extend my gratitude to the talented creators of the shaders and the [ReShade](https://reshade.me) software itself for their remarkable projects/repositories.
