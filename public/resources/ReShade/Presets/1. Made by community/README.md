@@ -15,6 +15,5 @@ Here are some example preset names that adhere to the naming conventions:
 1. Sefinek/HDR.ini
 2. sefinek24/HDR.ini
 
-### » Other URLs
-- Repository: [https://github.com/sefinek24/Stella-Mod-Resources](https://github.com/sefinek24/Stella-Mod-Resources)
-- Pull Requests: [https://github.com/sefinek24/Stella-Mod-Resources/pulls](https://github.com/sefinek24/Stella-Mod-Resources/pulls)
+### » How to create Pull request?
+https://github.com/sefinek24/Stella-Mod-Resources#-collaboration
