@@ -62,7 +62,7 @@ Your contributions are greatly appreciated.
     - Click the "New Pull Request" button.
     - Select your branch in the "base" and "compare" dropdowns.
     - Add a title and description for your pull request.
-    - Click "Create Pull Request."
+    - Click "Create Pull Request".
 
 8. **Review and Merge**
     - The repository owner or maintainers will review your pull request.
