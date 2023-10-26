@@ -20,51 +20,51 @@ Your contributions are greatly appreciated.
 ## How to create a new Pull request
 
 1. **Fork the Repository**
-    - Click the "Fork" button on the top-right of the repository's page. This creates a copy of the repository in your GitHub account.
+   - Click the "Fork" button on the top-right of the repository's page. This creates a copy of the repository in your GitHub account.
 
 2. **Clone Your Forked Repository**
-    - In your forked repository, click the "Code" button and copy the repository's URL.
-    - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
-      ```bash
-      git clone COPIED-URL
-      ```
-      Example:
-      ```bash
-      git clone https://github.com/sefinek24/Stella-Mod-Resources.git
-      ```
+   - In your forked repository, click the "Code" button and copy the repository's URL.
+   - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
+     ```bash
+     git clone COPIED-URL
+     ```
+     Example:
+     ```bash
+     git clone https://github.com/sefinek24/Stella-Mod-Resources.git
+     ```
 
 3. **Create a New Branch**
-    - Use the `git checkout` command to create and switch to a new branch for your changes:
-      ```bash
-      git checkout -b new-changes
-      ```
+   - Use the `git checkout` command to create and switch to a new branch for your changes:
+     ```bash
+     git checkout -b new-changes
+     ```
 
 4. **Make Your Changes**
-    - Make the necessary changes to the project in your local repository.
+   - Make the necessary changes to the project in your local repository.
 
 5. **Commit Your Changes**
-    - Use the `git commit` command to commit your changes locally:
-      ```bash
-      git commit -m "Your descriptive commit message"
-      ```
+   - Use the `git commit` command to commit your changes locally:
+     ```bash
+     git commit -m "Your descriptive commit message"
+     ```
 
 6. **Push Changes to Your Fork**
-    - Push your branch to your fork on GitHub using the `git push` command:
-      ```bash
-      git add .
-      git push origin new-changes
-      ```
+   - Push your branch to your fork on GitHub using the `git push` command:
+     ```bash
+     git add .
+     git push origin new-changes
+     ```
 
 7. **Create a Pull Request**
-    - Go to the original repository on GitHub.
-    - Click on the "Pull Request" tab.
-    - Click the "New Pull Request" button.
-    - Select your branch in the "base" and "compare" dropdowns.
-    - Add a title and description for your pull request.
-    - Click "Create Pull Request".
+   - Go to the original repository on GitHub.
+   - Click on the "Pull Request" tab.
+   - Click the "New Pull Request" button.
+   - Select your branch in the "base" and "compare" dropdowns.
+   - Add a title and description for your pull request.
+   - Click "Create Pull Request".
 
 8. **Review and Merge**
-    - The repository owner or maintainers will review your pull request.
-    - If your changes are approved, your pull request will be merged into the original repository.
+   - The repository owner or maintainers will review your pull request.
+   - If your changes are approved, your pull request will be merged into the original repository.
 
 That's it! You've successfully created a pull request on GitHub. Your changes are now part of the project.
