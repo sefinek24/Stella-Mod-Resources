@@ -26,7 +26,7 @@ Your contributions are greatly appreciated.
     - In your forked repository, click the "Code" button and copy the repository's URL.
     - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
       ```bash
-        git clone COPIED-URL
+      git clone COPIED-URL
       ```
       Example:
       ```bash
@@ -36,7 +36,7 @@ Your contributions are greatly appreciated.
 3. **Create a New Branch**
     - Use the `git checkout` command to create and switch to a new branch for your changes:
       ```bash
-      git checkout -b your-branch-name
+      git checkout -b new-changes
       ```
 
 4. **Make Your Changes**
@@ -52,7 +52,7 @@ Your contributions are greatly appreciated.
     - Push your branch to your fork on GitHub using the `git push` command:
       ```bash
       git add .
-      git push origin your-branch-name
+      git push origin new-changes
       ```
 
 7. **Create a Pull Request**
