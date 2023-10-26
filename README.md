@@ -26,13 +26,12 @@ Your contributions are greatly appreciated.
     - In your forked repository, click the "Code" button and copy the repository's URL.
     - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
       ```bash
-      git clone COPIED-URL
+        git clone COPIED-URL
       ```
-    
-    Example:
-    ```bash
-    git clone https://github.com/sefinek24/Stella-Mod-Resources.git
-    ```
+      Example:
+      ```bash
+      git clone https://github.com/sefinek24/Stella-Mod-Resources.git
+      ```
 
 3. **Create a New Branch**
     - Use the `git checkout` command to create and switch to a new branch for your changes:
