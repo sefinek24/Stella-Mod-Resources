@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2023 Sefinek
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+# DISCLAIMER
+In the context of the Genshin Stella Mod, it is essential to note the following:
+
+**I am not the author of any of the ReShade shaders used in this repository:**
+The ReShade shaders included in this project have been developed by talented individuals who are not associated with this repository.
+I want to clarify that I did not create these shaders, and I take no credit for their development.
+
+**The original rights belong to their respective original creators:**
+The individuals who crafted these ReShade shaders are the rightful owners of their intellectual property. Their creative work is protected by their respective licenses and rights.
+
+My role is to provide a platform for using these shaders within the context of the Genshin Stella Mod while respecting and adhering to the original creators' rights and licensing terms.
+This "Disclaimer" is intended to eliminate any confusion about authorship and ownership and to acknowledge the contributions of the talented creators behind the ReShade shaders.
