@@ -1,0 +1,28 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - '*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Archive public/resources
+        uses: vimtor/action-zip@v1
+        with:
+          files: public/resources
+          dest: resources.zip
+
+      - name: Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: resources.zip
+          generateReleaseNotes: true
