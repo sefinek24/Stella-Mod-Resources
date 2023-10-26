@@ -49,11 +49,12 @@ Your contributions are greatly appreciated.
      ```bash
      git commit -m "Your descriptive commit message"
      ```
+     Output:
      ```cmd
-      - PS C:\Users\Sefinek\Desktop\Stella-Mod-Resources> git commit -m "New preset made by Nekosumi"
-        [new-changes afb0b5b] New preset made by Nekosumi
-        6 files changed, 51 insertions(+), 476 deletions(-)
-        create mode 100644 public/resources/ReShade/Presets/1. Made by community/Example preset.ini
+     - PS C:\Users\Sefinek\Desktop\Stella-Mod-Resources> git commit -m "New preset made by Nekosumi"
+       [new-changes afb0b5b] New preset made by Nekosumi
+       6 files changed, 51 insertions(+), 476 deletions(-)
+       create mode 100644 public/resources/ReShade/Presets/1. Made by community/Example preset.ini
      ```
 
 6. **Push Changes to Your Fork**
