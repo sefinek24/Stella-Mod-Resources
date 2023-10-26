@@ -6,8 +6,7 @@ This folder contains community-made ReShade presets for Genshin Impact and YuanS
 If you'd like to contribute your own preset, simply create a new Pull Request with accompanying screenshots. However, please ensure that you hide your UID for privacy and security.
 
 ### » Use Valid Names
-1. `<Discord username>`/`<Small description>.ini`
-2. `<GitHub username>`/`<Small description>.ini`
+`<GitHub username>`/`<Small description>.ini`
 
 ### » Examples
 1. Sefinek/HDR.ini
