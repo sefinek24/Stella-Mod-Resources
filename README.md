@@ -12,6 +12,7 @@ More information is available in the [official documentation](https://sefinek.ne
 ### I'm using Genshin Stella Mod. Where are the resources located on my computer?
 Resources are by default downloaded and updated in the `C:\Stella-Mod-Resources` directory. Users have the option to change the folder. It is recommended that resources be present on a faster SSD drive.
 
-### Collaboration
+
+## Collaboration
 If you'd like to contribute your preset to the program's public resources, please create a new [Pull request](https://github.com/sefinek24/Stella-Mod-Resources/pulls).
 Your contributions are greatly appreciated.
