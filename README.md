@@ -17,7 +17,7 @@ Resources are by default downloaded and updated in the `C:\Stella-Mod-Resources`
 If you'd like to contribute your preset to the application's public resources, please create a new [Pull request](https://github.com/sefinek24/Stella-Mod-Resources/pulls).
 Your contributions are greatly appreciated.
 
-## 🍽️ How to create a new Pull request
+### 🍽️ How to create a new Pull request
 
 1. **Fork the Repository**
    - Click the "Fork" button on the top-right of the repository's page. This creates a copy of the repository in your GitHub account.
@@ -76,4 +76,4 @@ Your contributions are greatly appreciated.
    - The repository owner or maintainers will review your pull request.
    - If your changes are approved, your pull request will be merged into the original repository.
 
-That's it! You've successfully created a pull request on GitHub. Your changes are now part of the project.
+That's it! You've successfully created a pull request on GitHub. Your changes are now part of the project. Thank you.
