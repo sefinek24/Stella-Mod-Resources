@@ -26,7 +26,7 @@ Your contributions are greatly appreciated.
    - In your forked repository, click the "Code" button and copy the repository's URL.
    - Open your terminal and use the `git clone` command to download your forked repository to your local machine:
      ```bash
-     git clone COPIED-URL
+     git clone <COPIED-URL>
      ```
      Example:
      ```bash
