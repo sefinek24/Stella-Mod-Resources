@@ -25,24 +25,24 @@ Your contributions are greatly appreciated.
 
 2. **Clone Your Forked Repository**
    - In **your forked repository**, click the "Code" button and copy the repository's URL.
-     ![Fork](assets/images/2.1-copy-url.png)
+     ![Copy HTTPS url](assets/images/2.1-copy-url.png)
 
    - Open your terminal or cmd and use the `git clone` command to download your forked repository to your local machine. To execute this command, you need to have [Git software](https://git-scm.com/downloads) installed. Please ensure that you have it installed.
      ```bash
      git clone <COPIED-URL>
      ```
-     ![Fork](assets/images/2.2-clone.png)
+     ![Clone forked repository](assets/images/2.2-clone.png)
 
 3. **Create a New Branch**
    - Use the `git checkout` command to create and switch to a new branch for your changes:
      ```bash
      git checkout -b new-changes
      ```
-     ![Fork](assets/images/3.1-checkout.png)
+     ![Run git checkout](assets/images/3.1-checkout.png)
 
 4. **Make Your Changes**
    - Make the necessary changes to the project in your local repository.
-     ![Fork](assets/images/4.1-make-changes.png)
+     ![Make your changes](assets/images/4.1-make-changes.png)
 
 5. **Commit Your Changes**
    - Use the `git commit` command to commit your changes locally:
