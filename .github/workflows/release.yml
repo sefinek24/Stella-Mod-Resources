@@ -3,7 +3,7 @@ name: Release
 on:
   push:
     tags:
-      - 'v[0-9]+.[0-9]+.[0-9]+'
+      - 'v*'
 
 permissions:
   contents: write
@@ -15,12 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vimtor/action-zip@v1
+      - name: Archive folder
+        uses: vimtor/action-zip@v1
         with:
           files: public/resources
           dest: resources.zip
 
-      - uses: ncipollo/release-action@v1
+      - name: Create a new release
+        uses: ncipollo/release-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           artifacts: resources.zip
           generateReleaseNotes: true
