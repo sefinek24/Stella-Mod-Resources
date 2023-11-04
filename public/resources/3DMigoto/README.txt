@@ -4,8 +4,5 @@ By becoming a patron, you do NOT RECEIVE 3DMigoto itself, but rather the ability
 💥 IMPORTANT
 Please note that the benefits of being a patron are granted solely as a gesture of gratitude and are not a digitally purchasable product.
 
-
-  ╱|、
- (˚ˎ。7      - Patreon: https://www.patreon.com/sefinek
- |、˜〵      - Discord: https://discord.gg/Yj7fnafTXf
- じしˍ,)ノ
+* Patreon: https://www.patreon.com/sefinek
+* Discord: https://discord.gg/Yj7fnafTXf
