@@ -2,6 +2,12 @@
 .idea
 .vs
 
+# Stella Mod Plus
+patrons/*.zip
+patrons/benefits/*.zip
+patrons/benefits/2/*.zip
+patrons/benefits/3/*.zip
+
 # Zip files
 public/resources/resources.zip
 
