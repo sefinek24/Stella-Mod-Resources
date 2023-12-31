@@ -6,7 +6,7 @@
   "DllList": [],
   "FpsTarget": 144,
   "Fullscreen": true,
-  "GamePath": "{GamePath}",
+  "GamePath": "",
   "IsExclusiveFullscreen": false,
   "MonitorNum": 1,
   "PopupWindow": false,
