@@ -40,12 +40,12 @@ Your contributions are greatly appreciated.
      ![Copy HTTPS url](assets/images/2.1-copy-url.png)
 
    - Open your terminal or cmd and use the `git clone` command to download your forked repository to your local machine.
-     > [!IMPORTANT]  
+     > ⚠️ **IMPORTANT**
      > To execute this command, you need to have [Git](https://git-scm.com/downloads) installed. Please ensure that you have it installed.
 
-       ```bash
-       git clone <COPIED-URL>
-       ```
+     ```bash
+     git clone <COPIED-URL>
+     ```
      ![Clone forked repository](assets/images/2.2-clone.png)
 
 3. **Create a New Branch**
@@ -59,7 +59,7 @@ Your contributions are greatly appreciated.
    - Make the necessary changes to the project in your local repository.
      ![Make your changes](assets/images/4.1-make-changes.png)
 
-      > ⚠️ WARNING  
+      > ⚠️ **WARNING**  
       > PLEASE MAKE SURE YOU'RE CREATING THE PRESET IN THE CORRECT PATH!
       > ADDITIONALLY, FILES MUST FOLLOW THE APPROPRIATE NAMING CONVENTIONS!
       > IT IS ESSENTIAL TO FAMILIARIZE YOURSELF WITH THE RULES AVAILABLE [HERE](https://github.com/sefinek24/Stella-Mod-Resources/tree/main/public/resources/ReShade/Presets/1.%20Made%20by%20community).  
