@@ -1,1 +1,1 @@
-➕ Here is a path for your ReShade addons.
+Here is a path for your ReShade addons.
