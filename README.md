@@ -105,7 +105,6 @@ In this repository, we have utilized shaders from the [crosire/reshade-shaders](
 
 
 ## 📑 License
-Getting acquainted with the license is essential. It's crucial to thoroughly understand its terms and conditions.
+This repository is published under the [MIT License](LICENSE). For detailed information about the terms and conditions, please refer to the [LICENSE](LICENSE) file included in the repository.
 
-Navigate to the [LICENSE](LICENSE) file for additional information.
-I would like to extend my gratitude to the talented creators of the shaders and the [ReShade](https://reshade.me) software itself for their remarkable projects/repositories.
+As for the shaders, each shader is distributed under its own specific license. Please review the individual licenses provided with each shader for more details on their respective terms and conditions.
