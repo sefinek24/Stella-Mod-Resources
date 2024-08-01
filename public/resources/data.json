@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "date": "19.01.2024",
+  "version": "1.4.1",
+  "date": "01.08.2024",
   "contributors": [
     "Sefinek <contact@sefinek.net> (https://sefinek.net)"
   ],
@@ -10,7 +10,7 @@
     "pulls": "https://github.com/sefinek24/Stella-Mod-Resources/pulls"
   },
   "stella": {
-    "website": "https://genshin.sefinek.net",
+    "website": "https://stella.sefinek.net",
     "help": {
       "subpage": "https://sefinek.net/genshin-stella-mod/support",
       "discord": "https://discord.gg/8GbXtnYQKd"
