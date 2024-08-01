@@ -1,1 +1,1 @@
-Here is a path for your ReShade addons.
+Here is the path for your ReShade addons. Place them in this folder. You will need to restart the game.
