@@ -1,5 +1,5 @@
 # 📦 Stella Mod Resources
-Repository containing a collection of presets and shaders used by the [Genshin Stella Mod](https://sefinek.net/genshin-impact-reshade/repositories).
+Repository containing a collection of presets and shaders used by the [Genshin Stella Mod](https://sefinek.net/genshin-stella-mod/repositories).
 
 
 ## 🔎 File locations
@@ -19,7 +19,7 @@ Repository containing a collection of presets and shaders used by the [Genshin S
 ### 💫 What is Genshin Stella Mod?
 It is software that allows for injecting ReShade, 3DMigoto, and simultaneously unlocking FPS in [Genshin Impact](https://genshin.hoyoverse.com).
 The Chinese version [YuanShen](https://www.yuanshen.com) is also supported.
-More information is available in the [official documentation](https://sefinek.net/genshin-impact-reshade/docs?page=introduction).
+More information is available in the [official documentation](https://sefinek.net/genshin-stella-mod/docs?page=introduction).
 
 ### 📂 I'm using Genshin Stella Mod. Where are the resources located on my computer?
 Resources are by default downloaded and updated in the `C:\Stella-Mod-Resources` directory. Users have the option to change the folder. It is recommended that resources be present on a faster SSD drive.
